@@ -24,7 +24,10 @@
   Functions implementing an array with automatic memory allocation.
 
   */
-
+    
+	
+	
+	
 #include "config.h"
 
 #include "sysincl.h"
